@@ -13,11 +13,13 @@ tmlib、フリー素材の絵、SEを使っています。
 ファイルが見えないとかそういった理由だった気がします。  
 考えるのが面倒なのでサーバを立ててしまいました。  
 
-MacやLinuxの人は `python -m SimpleHTTPServer`でサーバを起動した後、localhost:8080にアクセスすると動きます。  
+MacやLinuxの人は `python -m SimpleHTTPServer`でサーバを起動した後、ローカルホストの8000番にアクセスすると動きます。  
 
 
 ## 様子
+
 ![タイトル](https://github.com/Kei-Fujikura/OneDayShooting/snap/1)
+
 ![動作](https://github.com/Kei-Fujikura/OneDayShooting/snap/2)
 
 ## 注意
