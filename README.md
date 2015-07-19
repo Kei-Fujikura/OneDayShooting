@@ -13,7 +13,7 @@ tmlib、フリー素材の絵、SEを使っています。
 
 MacやLinuxの人は  
 `python -m SimpleHTTPServer`でサーバを起動した後、  
-`localhost:8000`にアクセスすると動きます。  
+`http://localhost:8080` にアクセスすると動きます。  
 
 ## 様子
 ![タイトル](https://github.com/Kei-Fujikura/OneDayShooting/snap/1)
