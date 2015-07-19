@@ -10,9 +10,9 @@ tmlib、フリー素材の絵、SEを使っています。
 
 ## 様子
 
-![タイトル](https://github.com/Kei-Fujikura/OneDayShooting/snap/1)
+![タイトル](https://raw.githubusercontent.com/Kei-Fujikura/OneDayShooting/master/snap/1.png)
 
-![動作](https://github.com/Kei-Fujikura/OneDayShooting/snap/2)
+![動作](https://raw.githubusercontent.com/Kei-Fujikura/OneDayShooting/master/snap/2.png)
 
 
 ## 起動方法
